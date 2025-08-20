@@ -3,6 +3,10 @@
 Hi, I’m Mayureshwar Tawade, and I built this fully responsive and visually accurate front-end clone of the Razorpay
  homepage. This project was designed to practice responsive UI design, component-based React development, and Tailwind CSS workflows, while replicating the clean and modern interface of Razorpay’s official website.
 
+
+ ## Live Demo
+Check out the live running project here: [Razorpay UI Clone](https://your-username.github.io/razorpay-ui-clone/)
+
 ✨ Features
 
 🎨 Modern UI Design – Faithful replica of the original Razorpay homepage
@@ -69,6 +73,29 @@ Font: Mulish (Google Fonts)
 ├── README.md
 └── vite.config.js
 
+## Getting Started
+
+### Prerequisites
+- Node.js installed (https://nodejs.org/)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mayureshwartawade/razorpay-ui-clone.git
+
+2. Navigate to the project directory:
+
+  cd razorpay-ui-clone
+
+
+3. Install dependencies:
+
+   npm install
+
+4. Running the Project
+   Start the development server:
+
+   npm run dev   
 
 
 
