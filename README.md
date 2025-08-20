@@ -5,7 +5,7 @@ Hi, I’m Mayureshwar Tawade, and I built this fully responsive and visually acc
 
 
  ## Live Demo
-Check out the live running project here: [Razorpay UI Clone]([https://your-username.github.io/razorpay-ui-clone/](https://razorpayuiclonebymt.netlify.app/))
+Check out the live running project here: [Razorpay UI Clone][https://razorpayuiclonebymt.netlify.app]
 
 ✨ Features
 
