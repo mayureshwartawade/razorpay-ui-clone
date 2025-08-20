@@ -38,7 +38,7 @@ Animations: AOS (Animate on Scroll)
 Font: Mulish (Google Fonts)
 
 **Folder Structure**
-
+```
 ├── public/
 │   └── vite.svg
 ├── src/
@@ -71,8 +71,8 @@ Font: Mulish (Google Fonts)
 ├── package-lock.json
 ├── package.json
 ├── README.md
-└── vite.config.js
-
+└── vite.config.js 
+```
 ## Getting Started
 
 ### Prerequisites
@@ -84,18 +84,18 @@ Font: Mulish (Google Fonts)
    git clone https://github.com/mayureshwartawade/razorpay-ui-clone.git
 
 2. Navigate to the project directory:
-
+ ```
   cd razorpay-ui-clone
-
+ ```
 
 3. Install dependencies:
-
+```
    npm install
-
+```
 4. Running the Project
    Start the development server:
-
+```
    npm run dev   
-
+```
 
 
